@@ -1276,17 +1276,19 @@ hr {
   margin-bottom: 24px; }
 
 blockquote {
+  max-width: 600px;
+  margin: 0 auto 24px auto;
+  padding: 0 0 0 16px;
+  position: relative;
+  border-left: 3px solid #4B4F56;
+}
+blockquote p{
   color: #4B4F56;
   font-family: Georgia, serif;
-  max-width: 600px;
   font-size: 24px;
   line-height: 32px;
   font-style: italic;
-  margin: 60px auto 24px auto;
-  padding: 0 0 0 16px;
-  position: relative;
-  border-left: 3px solid #4B4F56; }
-
+}
 cite {
   max-width: 600px;
   color: #BEC2C9;
