@@ -19,7 +19,7 @@ else: ?>
 					<div class="card-circle card-circle--article" style="background-image: url('<?php echo get_avatar_url(get_the_author_meta('ID')) ?>')"></div>
 					<?php the_title( '<div class="card-title">', '</div>' ); ?>
 					<?php if(has_post_thumbnail()): ?>
-						<p class="card-description card-description--clamp-0"><?php echo get_the_excerpt() ?></p>
+						<div class="card-description card-description--clamp-0"><?php echo get_the_excerpt() ?></div>
 					<?php else: ?>
 						<p class="card-description card-description--clamp-14"><?php echo get_the_excerpt() ?></p>
 						<p class="card-description card-article-preview"><?php echo wp_trim_words(get_the_content(), 50) ?></p>

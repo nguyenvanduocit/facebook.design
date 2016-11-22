@@ -947,9 +947,6 @@ p.card-type {
   font-size: 11px;
   line-height: 18px; }
 
-p.card-description{
-  margin-bottom: 0;
-}
 .card-description {
   display: block;
   display: -webkit-box;
