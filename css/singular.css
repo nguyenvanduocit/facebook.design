@@ -1277,7 +1277,7 @@ hr {
 
 blockquote {
   max-width: 600px;
-  margin: 0 auto 24px auto;
+  margin: 24px auto 48px auto;
   padding: 0 0 0 16px;
   position: relative;
   border-left: 3px solid #4B4F56;
