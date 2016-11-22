@@ -1241,7 +1241,9 @@ h4 {
   margin-bottom: 24px; }
 
 strong {
-  font-weight: 500; }
+  font-weight: 500;
+  color: #6d6d6d;
+}
 
 p a {
   color: #4080FF; }
