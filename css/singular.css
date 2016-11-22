@@ -1289,6 +1289,9 @@ blockquote p{
   line-height: 32px;
   font-style: italic;
 }
+blockquote p:last-child{
+  margin-bottom: 0;
+}
 cite {
   max-width: 600px;
   color: #BEC2C9;
