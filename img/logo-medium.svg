@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 160 126.7"
+	 style="enable-background:new 0 0 160 126.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BEC2C9;}
+</style>
+<g>
+	<path class="st0" d="M154.5,23.8C154.5,23.8,154.5,23.8,154.5,23.8l-0.1-0.1L109.5,1.3c-0.3-0.2-0.6-0.3-0.9-0.3
+		c-0.4-0.1-0.8-0.2-1.2-0.2c-1.7,0-3.4,0.9-4.4,2.4l-25.8,42l32.4,52.7l45.1-73.3C154.8,24.3,154.8,24,154.5,23.8z"/>
+	<polygon class="st0" points="63,35.6 63,83.4 105.4,104.6 	"/>
+	<path class="st0" d="M111.8,107.8l35,17.5c4.5,2.3,8.2,0.7,8.2-3.6V37.6L111.8,107.8z"/>
+	<path class="st0" d="M55.6,23.9L11.8,2C11,1.6,10.2,1.4,9.5,1.4c-1.9,0-3.3,1.5-3.3,4V100c0,2.5,1.9,5.5,4.1,6.7L49,126
+		c1,0.5,1.9,0.7,2.8,0.7c2.4,0,4.1-1.9,4.1-5V24.3C55.8,24.2,55.7,24,55.6,23.9z"/>
+</g>
+</svg>
